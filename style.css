@@ -4,3 +4,8 @@ Author: Petya
 Description: A theme for law firms
 Version: 1.0
 */
+
+body {
+  padding: 0;
+  margin: 0;
+}
